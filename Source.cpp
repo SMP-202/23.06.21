@@ -13,4 +13,5 @@ int main()
 	cout << "Hello, world!" << endl;
 	cout << "Jhon Smith" << endl;
 	cout << "Julia" << endl;
+	cout << "Hi there!" << endl;
 }
