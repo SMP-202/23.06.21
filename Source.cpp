@@ -15,4 +15,5 @@ int main()
 	cout << "Hello" << endl;
 	cout << "Julia" << endl;
 	cout << "Hi there!" << endl;
+	cout << "qwe" << endl;
 }
