@@ -12,4 +12,5 @@ int main()
 	srand(time(NULL));
 	cout << "Hello, world!" << endl;
 	cout << "Jhon Smith" << endl;
+	cout << "Hi there!" << endl;
 }
